@@ -1,0 +1,7 @@
+C:\Proyectos\ejercicio\JobSolucion\JobLogger\bin\Debug\JobLogger.exe.config
+C:\Proyectos\ejercicio\JobSolucion\JobLogger\bin\Debug\JobLogger.exe
+C:\Proyectos\ejercicio\JobSolucion\JobLogger\bin\Debug\JobLogger.pdb
+C:\Proyectos\ejercicio\JobSolucion\JobLogger\obj\Debug\JobLogger.csprojAssemblyReference.cache
+C:\Proyectos\ejercicio\JobSolucion\JobLogger\obj\Debug\JobLogger.csproj.CoreCompileInputs.cache
+C:\Proyectos\ejercicio\JobSolucion\JobLogger\obj\Debug\JobLogger.exe
+C:\Proyectos\ejercicio\JobSolucion\JobLogger\obj\Debug\JobLogger.pdb
