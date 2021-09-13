@@ -120,10 +120,7 @@ namespace ConsoleApp.Business
                        response.Text = "Error. Execution was interrupted. " + response.Text;
                        return response;
                     }
-                    else
-                    {
-                       Console.WriteLine("Log was registered in File.");
-                    }
+                   
                  }
 
                 if (_IsAbleLogToConsole)
@@ -139,10 +136,7 @@ namespace ConsoleApp.Business
                         response.Text = "Error. Execution was interrupted. " + response.Text;
                         return response;
                     }
-                    else
-                    {
-                        Console.WriteLine("Log was registered in database.");
-                    }
+                  
                 }
 
             }
