@@ -1,3 +1,4 @@
+
 Code Review / Refactoring exercise
 
 Please review the following code snippet. Assume that all referenced assemblies have
@@ -13,3 +14,9 @@ specific and indicate any errors that would occur as well as other best practice
 code refactoring that should be done.
 	2. Rewrite the code based on the feedback you provided in question 1. Please include
 unit tests on your code.
+
+*************************************************RESOLUTION*************************************************
+
+Setting Configuration (App.config)
+To custome output, please change: logToFile, logToDatabase and logToConsole.
+Put true ableToSelectTypeMessage to ask user to select type of message.
